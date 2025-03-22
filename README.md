@@ -1,6 +1,6 @@
 ### Env
 
-Ensure environmental variables are entered in .env or .env.development file before building. see .env.example for required keys
+Ensure environmental variables are entered in .env or .env.development file before building. See .env.example for required keys
 
 ### Build the Docker Image
 
