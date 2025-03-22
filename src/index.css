@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #043e57;
+  --color-primary-light: #d2e8f0;
+  --spacing-dashboard: 5rem;
+  /* ... */
+}
